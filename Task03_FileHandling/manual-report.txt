@@ -1,0 +1,4 @@
+store1.txt total = 2050.0
+store2.txt total = 1550.0
+store3.txt total = 1200.0
+GRAND TOTAL = 4800.0
